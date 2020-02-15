@@ -1,4 +1,4 @@
-# TheBigData
+# Big Data Technologies Course
 
 Groupe :
 
